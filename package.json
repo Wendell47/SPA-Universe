@@ -1,0 +1,17 @@
+{
+  "name": "stage-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "lite-server": "^2.6.1",
+    "npm": "^9.6.2"
+  }
+}
